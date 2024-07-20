@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Fuddledumpy
 - 🌱 I’m currently teaching myself Python and Javascript (along with refreshers on HTML & CSS).
-- I intend to get into full stack web development in the near future.
+- 💻 I intend to get into full stack web development in the near future.
