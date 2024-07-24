@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Fuddledumpy
+- 👋 Hi, I’m @stevenfarless
 - 🌱 I’m currently teaching myself Python and Javascript (along with refreshers on HTML & CSS).
 - 💻 I intend to get into full stack web development in the near future.
