@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @stevenfarless
 - 🌱 I’m currently teaching myself Python and Javascript (along with refreshers on HTML & CSS).
-- 💻 I'm slowly working my way through [freeCodeCamp](https://www.freecodecamp.org), [Mimo](https://mimo.org), [The Odin Project](https://www.theodinproject.com), and various learning/research rabbit trails.
+- 💻 I'm slowly working my way through [freeCodeCamp](https://www.freecodecamp.org), [Mimo](https://mimo.org), and various learning/research rabbit trails.
 - ☁ I intend to get into full stack web development in the near future.
