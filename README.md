@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @stevenfarless
 - 🌱 I’m currently teaching myself Python and Javascript (along with refreshers on HTML & CSS).
-- 💻 I'm slowly working my way through [freeCodeCamp](https://www.freecodecamp.org), [Mimo](https://mimo.org), [Solo Learn](https://www.sololearn.com/en/profile/32389965) and various learning/research rabbit trails.
 - ☁ I intend to get into full stack web development in the near future.
